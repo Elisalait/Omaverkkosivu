@@ -1,0 +1,38 @@
+body { background-color: rgb(116, 5, 136);
+    color: white;
+    margin: 30px 0;
+    }
+    h1 {
+        font-size: 20px;
+        border: 3px;
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+      }
+    h2 {font-size: 18px;
+    }
+      p {
+        font-size: 12px;
+        color: lightgray;
+        background-color: rgb(182, 124, 236);
+        border-radius: 5px;
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+      }  
+      div {
+        border-style: dotted;
+        border-width: 2px;
+        }
+        .päivät { 
+            width: 100px;
+            height: 100px;}
+      ol {
+        list-style-type: A; }
+    ul {
+        list-style-type: square;}
+        a{ text-align:right;
+        vertical-align:text-top;}
+    
